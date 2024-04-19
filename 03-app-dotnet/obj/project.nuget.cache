@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SjN2gs6WhZI6w0aWTKvMRMvOKEP6sXQEPzx8kB1ytV+FbnSYSGNdBNbrHQec5eAlmeAuqsW5GT8X3bf62JVXvA==",
+  "success": true,
+  "projectFilePath": "D:\\Software-Development\\DevOps\\Houssem-Dellai\\CSharp\\my-github-actions-course-version\\03-app-dotnet\\app-dotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahmm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\mahmm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\mahmm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\mahmm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
